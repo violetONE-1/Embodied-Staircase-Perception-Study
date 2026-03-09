@@ -20,6 +20,7 @@ PathB:Model Scaling
 Upgrading from BLIP-Base to BLIP-Large to get better feature extraction.
 
 
+
 Analysis:
 
 However, even after these improvements, the prediction accuracy did not increase as expected. After analyzing the failure, I supposed there are 3 possible reasons:
@@ -28,6 +29,7 @@ However, even after these improvements, the prediction accuracy did not increase
 3.The model fails to understand the motion between images.
 
 <img width="436" height="132" alt="871b524211118cf36475067dd595513c" src="https://github.com/user-attachments/assets/540e4b56-71d1-48e9-8364-5d2bf29e970a" />
+
 
 
 Conclusion:
