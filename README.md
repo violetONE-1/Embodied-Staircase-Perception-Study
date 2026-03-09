@@ -6,6 +6,7 @@ Inspired by the ASCENT framework presented in the paper 'Stairway to Success: An
 
 
 Phase1:Baseline (BLIP-Base)
+
 Using the BLIP-Base model as a baseline, I uploaded diverse single-frame inputs and varied prompts. However, the model failed to deliver stable or consistent predictions, highlighting a lack of spatial robustness in zero-shot staircase detection. So after the initial setbacks in Phase 1, I pursued two distinct pathways to enhance the model's predictive accuracy and robustness.
 
 
