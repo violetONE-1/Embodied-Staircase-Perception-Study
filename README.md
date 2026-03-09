@@ -21,6 +21,7 @@ Upgrading from BLIP-Base to BLIP-Large to get better feature extraction.
 
 
 Analysis:
+
 However, even after these improvements, the prediction accuracy did not increase as expected. After analyzing the failure, I supposed there are 3 possible reasons:
 1.The staircase images accepted by the model during its pre-training are mostly from an upward perspective.
 2.2D pixels cannot provide enough spatial information.
@@ -30,4 +31,5 @@ However, even after these improvements, the prediction accuracy did not increase
 
 
 Conclusion:
+
 While the experiment did not achieve high accuracy, it successfully proved the necessity of the ASCENT framework. As a Software Engineering student, this process has deepened my understanding of robust perception and the gap between 2D recognition and 3D spatial navigation in the field of embodied AI.
