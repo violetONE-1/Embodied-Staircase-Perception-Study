@@ -1,6 +1,7 @@
 # Embodied-Staircase-Perception-Study
 
 Motivation and Objective:
+
 Inspired by the ASCENT framework presented in the paper 'Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration', this project serves as a hands-on exploration, aiming to understand the limitations of 2D semantic models in embodied AI navigation tasks, which is a critical bottleneck in multi-floor autonomous navigation.
 
 
