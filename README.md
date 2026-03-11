@@ -19,9 +19,7 @@ Inspired by the active exploration logic in the ASCENT paper, I implemented Sequ
 PathB:Model Scaling
 Upgrading from BLIP-Base to BLIP-Large to get better feature extraction.
 
-![step3](https://github.com/user-attachments/assets/043b1610-83d7-43e6-8f16-81901e4b0e6f)
-![step2](https://github.com/user-attachments/assets/85e85cb7-a93a-4a9d-aa08-646cf4e02edc)
-![step1](https://github.com/user-attachments/assets/5faa9916-2207-4507-b41a-f681299bf9b0)
+![stair](https://github.com/user-attachments/assets/aed003d7-3a8e-4582-9cfb-a14733b21762)
 
 
 Analysis:
